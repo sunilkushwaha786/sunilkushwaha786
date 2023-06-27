@@ -1,16 +1,27 @@
 <h1 >꧁༒☬˚₊ ͟͟͞➳❥♡ 𝓢𝓤𝓝𝓘𝓛 𝓚𝓤𝓢𝓗𝓦𝓐𝓗𝓐 ♡˚₊· ͟͟͞͞➳❥☬༒꧂
 </h1>
-<h3 align="center">⛹🏻A passionate frontend developer from India💻</h3>
+<h3 align="center">⛹🏻A passionate frontend developer from India💻</h3> 
 
+
+
+
+ .
+
+
+
+
+.
 
 ## my contribution graph get eaten by the snake 🐍:
 <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
 
 > refer this for complete guide -
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkushwaha786&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkushwaha786" /> </p>
+## GitHub Profile Trophy 🏆
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilkushwaha786" alt="sunilkushwaha786" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rzashakeri&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 - 💬 Ask me about **React js, HTML, CSS ,JAVA ,JAVASCRIPT**
 
