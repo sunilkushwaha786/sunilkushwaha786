@@ -2,6 +2,12 @@
 </h1>
 <h3 align="center">⛹🏻A passionate frontend developer from India💻</h3>
 
+
+## my contribution graph get eaten by the snake 🐍:
+<img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+
+> refer this for complete guide -
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkushwaha786&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkushwaha786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilkushwaha786" alt="sunilkushwaha786" /></a> </p>
